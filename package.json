@@ -1,0 +1,16 @@
+{
+  "name": "ace-editor",
+  "version": "2013.3.14",
+  "main": "lib/ace.js",
+  "description": "NPM module for Ace -- See github.com/ajaxorg/ace-builds",
+  "homepage": "https://github.com/ajaxorg/ace-builds/",
+  "keywords": [
+    "ace",
+    "editor"
+  ],
+  "author": "Evan Moran <evan@evanmoran.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/evanmoran/npm-ace-editor.git"
+  }
+}
