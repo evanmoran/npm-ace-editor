@@ -2,7 +2,7 @@
   "name": "ace-editor",
   "version": "2013.3.14",
   "main": "lib/ace.js",
-  "description": "NPM module for Ace -- See github.com/ajaxorg/ace-builds",
+  "description": "Ace Editor major releases from github.com/ajaxorg/ace-builds",
   "homepage": "https://github.com/ajaxorg/ace-builds/",
   "keywords": [
     "ace",
